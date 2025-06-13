@@ -45,5 +45,5 @@
 
 ## 📌 Авторство
 
-* **Оригинальный автор**: [Milo]([https://forums.alliedmods.net/member.php?u=75658](https://forums.alliedmods.net/showthread.php?t=85551)
+* **Оригинальный автор**: [Milo]([https://forums.alliedmods.net/member.php?u=75658](https://forums.alliedmods.net/showthread.php?t=85551))
 * **Рефорк, перепись и доработка**: [Nek.'a 2x2](https://github.com/Nekromio)
